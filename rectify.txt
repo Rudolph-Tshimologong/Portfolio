@@ -1,0 +1,8 @@
+1. Folders
+2. Correct HTML 5 format layout (html - head - body(html elements(header), tag and attributes) )
+3. Head Tag format -  from most important to less important.
+4. include alt in every image.
+
+
+---------------------
+fieldset and legend
